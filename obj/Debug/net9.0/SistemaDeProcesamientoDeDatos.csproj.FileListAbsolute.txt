@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\bin\Debug\net9.0\SistemaDeProcesamientoDeDatos.exe
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\bin\Debug\net9.0\SistemaDeProcesamientoDeDatos.deps.json
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\bin\Debug\net9.0\SistemaDeProcesamientoDeDatos.runtimeconfig.json
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\bin\Debug\net9.0\SistemaDeProcesamientoDeDatos.dll
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\bin\Debug\net9.0\SistemaDeProcesamientoDeDatos.pdb
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.sourcelink.json
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.dll
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\refint\SistemaDeProcesamientoDeDatos.dll
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.pdb
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\SistemaDeProcesamientoDeDatos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\SistemaDeProcesamientoDeDatos\obj\Debug\net9.0\ref\SistemaDeProcesamientoDeDatos.dll
