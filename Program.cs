@@ -23,9 +23,15 @@ Opción");
             switch (opcion)
             {
                 case 1:
+                    PagoEfectivo efectivo = new PagoEfectivo(titular, monto);
+                    efectivo.MostrarInformacion();
+                    efectivo.ProcesarPago();
                     break;
-
+                    
                 case 2:
+                    PagoTarjeta tarjeta = new PagoTarjeta(titular, monto);
+                    tarjeta.MostrarInformacion();
+                    tarjeta.ProcesarPago();
                     break;
 
                 case 3:
